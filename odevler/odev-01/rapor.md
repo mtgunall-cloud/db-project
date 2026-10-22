@@ -10,7 +10,7 @@
 
 **Kullandığım veritabanı:** ☑ `llm_ops`  ☐ `robot_fleet`
 
-**PR bağlantısı:** `https://github.com/` ______________________________________
+**PR bağlantısı:** https://github.com/mtgunall-cloud/db-project/pull/1
 
 **Commit sayısı:** 5
 
